@@ -22,7 +22,7 @@ A course recommendation system that uses OpenAI's GPT model to suggest relevant 
 To get started, clone the repository and install the required dependencies. Run the following commands in your terminal:
 
 ```bash
-git clone https://github.com/yourusername/course-recommendation-system.git
-cd course-recommendation-system
+git clone https://github.com/ramkishan222/CourseAi.git
+cd CourseAi
 pip install -r requirements.txt
 
